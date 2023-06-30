@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4"
+         xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>products</servlet-name>
+    <servlet-class>com.coherent.webclient.ProductsServlet</servlet-class>
+    <init-param>
+      <param-name>initConnectStatus</param-name>
+      <param-value>false</param-value>
+    </init-param>
+    <init-param>
+      <param-name>port</param-name>
+      <param-value>200</param-value>
+    </init-param>
+    <init-param>
+      <param-name>host</param-name>
+      <param-value>127.0.0.1</param-value>
+    </init-param>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>products</servlet-name>
+    <url-pattern>/products</url-pattern>
+  </servlet-mapping>
+</web-app>

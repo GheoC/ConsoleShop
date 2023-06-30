@@ -1,0 +1,4 @@
+com\coherent\repository\ShopRepositoryH2ImplTest.class
+com\coherent\service\ProductSortingServiceTest.class
+com\coherent\service\CategoryServiceTest.class
+com\coherent\ConsoleShopTest.class

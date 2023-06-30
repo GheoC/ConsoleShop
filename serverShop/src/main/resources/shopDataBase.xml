@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog id="1" name="MyShop">
+    <category id="1" name="groceries">
+        <product id="1" name="carrot" price="15.0" stock="10"/>
+        <product id="2" name="bananas" price="20.0" stock="20"/>
+        <product id="3" name="onion" price="10.0" stock="70"/>
+        <product id="4" name="orange" price="11.0" stock="45"/>
+        <product id="5" name="lettuce" price="25.0" stock="30"/>
+        <product id="6" name="potatoes" price="15.0" stock="10"/>
+        <product id="7" name="lemons" price="10.0" stock="10"/>
+    </category>
+    <category id="2" name="electronics">
+        <product id="8" name="keyboard" price="50.0" stock="30"/>
+        <product id="9" name="mouse" price="50.0" stock="4"/>
+        <product id="10" name="monitor" price="199.0" stock="10"/>
+        <product id="11" name="dell laptop" price="1099.0" stock="5"/>
+    </category>
+    <category id="3" name="food">
+        <product id="12" name="t-Bone" price="59.0" stock="15"/>
+    </category>
+    <category id="4" name="beverages">
+        <product id="13" name="stella artois" price="20.0" stock="30"/>
+        <product id="14" name="coca cola" price="15.0" stock="50"/>
+        <product id="15" name="pepsi" price="14.0" stock="40"/>
+        <product id="16" name="fanta" price="14.5" stock="23"/>
+    </category>
+    <category id="7" name="toys">
+        <product id="17" name="train" price="44.0" stock="32"/>
+        <product id="19" name="teddyBear" price="66.0" stock="34"/>
+        <product id="20" name="lego" price="42.0" stock="44"/>
+        <product id="21" name="barbi" price="23.0" stock="42"/>
+        <product id="22" name="car" price="23.0" stock="42"/>
+        <product id="23" name="dinosaur" price="39.0" stock="44"/>
+    </category>
+    <category id="8" name="cosmetics"/>
+</catalog>

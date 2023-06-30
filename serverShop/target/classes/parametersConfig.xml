@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <!--putting price first and stock second to see the third Comparator work-->
+    <parameter parameterField="price" strategy="asc"/>
+    <parameter parameterField="stock" strategy="desc"/>
+    <parameter parameterField="name" strategy="asc"/>
+</config>

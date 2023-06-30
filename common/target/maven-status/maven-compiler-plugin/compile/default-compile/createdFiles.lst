@@ -1,0 +1,6 @@
+com\coherent\common\models\Shop.class
+com\coherent\common\models\Category.class
+com\coherent\common\models\Order.class
+com\coherent\common\models\Product.class
+com\coherent\common\models\Catalog.class
+com\coherent\common\models\OrderStatus.class
